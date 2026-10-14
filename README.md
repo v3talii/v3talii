@@ -1,12 +1,26 @@
-### Vitalii Stetsenko
+# Vitalii Stetsenko
 
-Computer Science (Infrastructure) student at Technological University Dublin.  
-Focused on Network Engineering, Cloud Technologies, and Linux System Administration.
+Second-year Computer Science (Infrastructure) student at Technological University Dublin (TU Dublin). Focused on Linux system administration, network engineering, and automation.
 
-#### Core Technical Focus
-* **Networking:** Cisco IOS, Routing & Switching, IPv4/IPv6, Infrastructure Design
-* **Cloud & DevOps:** AWS Foundations, Automation, Scripting
-* **Systems:** Linux (Admin & Shell), Windows Server
+---
 
-#### Education
-* **B.Sc. (Hons) in Computer Science (Infrastructure)** | TU Dublin (Year 2)
+## Technical Focus Areas
+
+- **Systems & Administration:** Linux (macOS/Debian/RHEL CLI), Shell Scripting (Bash), Process & Storage Management
+- **Networking:** Cisco IOS, Inter-VLAN Routing, Subnetting (IPv4/IPv6), TCP/IP Protocols, Network Diagnostics
+- **Development & Automation:** Java (OOP), Python, Git/GitHub Workflows
+- **Infrastructure Concepts:** Cloud Fundamentals, Virtualization, System Monitoring
+
+---
+
+## Education
+
+- **B.Sc. (Hons) in Computer Science (Infrastructure) (TU857)**  
+  Technological University Dublin (TU Dublin) | *2025 – Present (Year 2)*
+
+---
+
+## Connect & Contact
+
+- **GitHub:** [github.com/v3talii](https://github.com/v3talii)
+- **LinkedIn:** [linkedin.com/in/v3talii](https://linkedin.com/in/v3talii) *(укажи свою ссылку, если есть)*
