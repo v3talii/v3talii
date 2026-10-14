@@ -23,4 +23,4 @@ Second-year Computer Science (Infrastructure) student at Technological Universit
 ## Connect & Contact
 
 - **GitHub:** [github.com/v3talii](https://github.com/v3talii)
-- **LinkedIn:** [linkedin.com/in/v3talii](https://linkedin.com/in/v3talii) *(укажи свою ссылку, если есть)*
+- **LinkedIn:** www.linkedin.com/in/vitaliistetsenko
